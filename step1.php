@@ -1,3 +1,4 @@
+134
 <?php
 session_start();
 
@@ -103,7 +104,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             </div>
         <?php endif; ?>
 
-        <h1 class="text-center">Week Details</h1>
+        <h1 class="text-center">Week Detailss</h1>
         <form method="POST" action="" class="text-center">
             <div class="form-group text-center justify-content-center">
                 <label for="week_name">Week Name:</label>
